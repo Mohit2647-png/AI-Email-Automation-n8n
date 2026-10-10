@@ -12,8 +12,6 @@ This project uses n8n Cloud, Gmail, and an AI Agent to automate common email tas
 - Connect Gmail operations to an AI Agent as tools.
 - Prepare email replies for review before sending.
 
-## Workflow Architecture
-![AI Email Automation Workflow](workflow-diagram.png)
 
 **Workflow:** Gmail Trigger → AI Agent → Gmail tools
 
